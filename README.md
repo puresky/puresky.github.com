@@ -1,4 +1,4 @@
-puresky.github.com
+puresky.github.io
 ==================
 
 personal website
